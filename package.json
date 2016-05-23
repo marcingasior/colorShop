@@ -1,0 +1,17 @@
+{
+  "name": "color-shop",
+  "version": "1.0.0",
+  "description": "Color shop problem",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcin Gasior",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-mocha": "^2.2.0"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
