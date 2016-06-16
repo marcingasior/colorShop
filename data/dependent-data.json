@@ -1,0 +1,10 @@
+{
+  "colors": 5,
+  "customers": [
+    [{"id":1,"type":"G"},{"id":3,"type":"M"}],
+    [{"id":2,"type":"G"},{"id":3,"type":"G"},{"id":4,"type":"M"}],
+    [{"id":1,"type":"M"}],
+    [{"id":2,"type":"M"}],
+    [{"id":5,"type":"M"}]
+  ]
+}

@@ -1,0 +1,7 @@
+{ "colors": 5,
+  "customers":[
+    [{"id":5,"type":"G"}],
+    [{"id":2,"type":"G"},{"id":3,"type":"M"},{"id":4,"type":"G"}],
+    [{"id":5,"type":"M"}]
+  ]
+}
