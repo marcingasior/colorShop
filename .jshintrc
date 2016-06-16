@@ -1,0 +1,14 @@
+{
+  "node": true,
+  "esversion": 6,
+  "mocha": "bdd",
+  "globals": {
+    /* MOCHA */
+    "describe"   : false,
+    "it"         : false,
+    "before"     : false,
+    "beforeEach" : false,
+    "after"      : false,
+    "afterEach"  : false
+  }
+}
